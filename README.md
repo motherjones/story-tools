@@ -14,7 +14,7 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * Admin access on your machine. Talk to Ross.
 
-* A good text editor. We prefer [SublimeText](http://www.sublimetext.com/). After downloading, check out this [walkthrough](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts) for some extremely useful keyboard shortcuts and other tips.
+* A good text editor. We prefer [SublimeText](http://www.sublimetext.com/).
 
 * You'll be using the command line to access our GitHub account. There's a built-in application on all Macs called Terminal, which is a command line program. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home). Download it.
 
@@ -28,12 +28,13 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 #### Some good background
 
-There are a few programming tools you'll need to use to work with the MoJo storytelling suite. Here are good introductory walkthroughs for the main ones:
+The tools, languages, and concepts you'll encounter when working with these tools might be totally new to you. Here are some good backgrounds:
 
+* [HTML and CSS](http://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
 * [Github](https://try.github.io/levels/1/challenges/1)
-* [Command line](#)
-* [Text editor](#)
-* [S3 organizer](#)
+* [Command line](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+* [Text editors](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
+* [Amazon S3](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/)
 
 ## Starting a new project
 
@@ -72,6 +73,7 @@ Coming soon.
 Coming soon.
 
 ## Coordinating with the newsroom
+
 
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
