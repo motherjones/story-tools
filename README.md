@@ -3,7 +3,7 @@
 ## List of tools
 
 * [US map with tooltips](https://github.com/motherjones/spreadsheet-to-svg) For color-coded maps with state-by-state US data. Polygons only.
-* 
+
 * [Prettylist](https://github.com/motherjones/prettylist) Generate a nicely formatted list from a spreadsheet.
 
 * [Simple slider](https://github.com/motherjones/simple-slider/) A horizontal inline slider that works with images, videos, and any html elements.
