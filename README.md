@@ -22,11 +22,11 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 #### Upload your data
 
-On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
+On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy``. Give your project a working title.
 
-Name your project, then go to ``File > Move to Folder > Mother Jones Drive > folder for your beat``
+``File > Move to Folder > Mother Jones Drive > folder for your beat``. Make Mother Jones the owner of the spreadsheet under ``Sharing > Owner``.
 
-Replace the data in the spreadsheet with the data for your project. Check the README for any rules for changing column names, order, and so on
+Replace the data in the spreadsheet with the data for your project. Check the README for specifics.
 
 ``File > Publish to the Web`` Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
 
@@ -34,9 +34,9 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 [Duplicate](#) the tool, then [push up](#) to a new private repo under the Mother Jones account.
 
-Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet.
+Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet. This key is usually in the ``script.js`` file, like this:
 
-   Tabletop.init( { 
+      Tabletop.init( { 
         key: 'https://docs.google.com/spreadsheet/pub?key=0AuHOPshyxQGGdDFnemtSV2tCXzJDOFNfeDNQY2lvb2c&output=html',
         callback: makeTable, 
         simpleSheet: true,
@@ -44,13 +44,11 @@ Open up the copy's files in a text editor (a program for editing HTML, CSS, and 
 
 ## Using GitHub
 
-We use Github 
-
 ## Life Cycle of a MoJo interactive
 
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
-* Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Make sure Mother Jones in the owner of the spreadsheet under Sharing > Owner. Share the doc URL in the Slack chat
+* Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Share the doc URL in the Slack chat.
 
 * Create a new directory on s3 for the project
 
