@@ -50,7 +50,9 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 #### Make a copy of the tool
 
-[Duplicate](#) the tool, then [push up](#) to a new private repo under the Mother Jones account.
+Create a new private repo under the Mother Jones account ([how-to](https://help.github.com/articles/create-a-repo/))
+
+Duplicate the tool and push to the new repo ([how to](https://help.github.com/articles/duplicating-a-repository/))
 
 Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet. This key is usually in the ``script.js`` file, like this:
 
