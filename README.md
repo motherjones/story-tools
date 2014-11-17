@@ -5,7 +5,6 @@
 * [Setting up your machine](#setting-up-your-machine)
 * [Starting a new project](#starting-a-new-project)
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
-* [After publishing](#after-publishing)
 * [List of tools](#list-of-tools)
 
 ## Setting Up Your Machine
@@ -92,8 +91,8 @@ Your distribution URL goes in the place of ``replaceme.html``. Check that things
 
 ## Coordinating with the newsroom
 
-[newsroom.md](#)
+[newsroom.md](https://github.com/motherjones/story-tools/blob/master/newsroom.md)
 
 ## List of tools
 
-[list.md]()
+[list.md](https://github.com/motherjones/story-tools/blob/master/list.md)
