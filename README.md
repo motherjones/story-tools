@@ -31,7 +31,7 @@ To use these tools, there are a few things you'll need to download or set up on 
 The tools, languages, and concepts you'll encounter when working with these tools might be totally new to you. Here are some good backgrounds:
 
 * [HTML and CSS](http://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
-* [Github](https://try.github.io/levels/1/challenges/1)
+* Github [1](https://try.github.io/levels/1/challenges/1) and [2](http://rogerdudler.github.io/git-guide/)
 * [Command line](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [Text editors](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 * [Amazon S3](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/)
@@ -54,7 +54,7 @@ Create a new private repo under the Mother Jones account ([how-to](https://help.
 
 Duplicate the tool and push to the new repo ([how to](https://help.github.com/articles/duplicating-a-repository/))
 
-Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet. This key is usually in the ``script.js`` file, like this:
+In SublimeText, open the main folder of your repo. Replace the spreadsheet key in ``script.js`` with the URL to your new spreadsheet. It usually looks something like this:
 
       Tabletop.init( { 
         key: 'https://docs.google.com/spreadsheet/pub?key=0AuHOPshyxQGGdDFnemtSV2tCXzJDOFNfeDNQY2lvb2c&output=html',
@@ -62,17 +62,23 @@ Open up the copy's files in a text editor (a program for editing HTML, CSS, and 
         simpleSheet: true,
     } )
 
-Change any other variables or copy that you need. Hopefully, the tool's README page will help.
+Change any other variables or copy that you need. Hopefully, the tool's README page will help. Add, commit, and push your changes as you go.
 
 #### 3. Upload to s3
 
-Coming soon.
+Open S3 Organizer in Firefox. The left-hand pane shows files on your machine (aka "local"). The right-hand pane shows files in the cloud. Upload your local files to the right place in the cloud. Notice the icons in the top-right corner of the screen; you use these to move around, make new directories, and so on.
 
-Test all URLs. Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android.
+After your files have been uploaded, right-click on the main project folder. ``Edit ACL`` and change the permissions as needed. Click "Apply to subfolders" to change all your files at once.
 
 #### 4. Embed in the shell
 
-Coming soon.
+We use Pym.js to embed projects into stories via our CMS.
+
+      <div id="graphic"></div>
+      <script type="text/javascript" src="http://assets.motherjones.com/interactives/plugins/pym.js/src/pym.js"></script>
+      <script>
+            var pymParent = new pym.Parent('graphic', 'replaceme.html', {});
+      </script>
 
 #### 5. After publishing:
 
