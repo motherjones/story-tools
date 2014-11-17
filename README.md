@@ -1,12 +1,14 @@
 # Mother Jones's Storytelling Tools
 
-Each tool has a README page, which is like a user's manual. Open the Spreadsheet Template link, then go to File > Make a Copy. 
+On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
 
-Name your project, then go to File > Move to Folder > Mother Jones Drive > a beat folder.
+Name your project, then go to ``File > Move to Folder > Mother Jones Drive > folder for your beat``
 
 Replace the data in the spreadsheet with the data for your project. Check the README for any rules for changing column names, order, and so on
 
-Go to File > Publish to the Web. Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
+``File > Publish to the Web``
+
+Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
 
 Grab a copy of the tool you want from Mother Jones's GitHub page.
 Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files).
