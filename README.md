@@ -36,6 +36,12 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet.
 
+   Tabletop.init( { 
+        key: 'https://docs.google.com/spreadsheet/pub?key=0AuHOPshyxQGGdDFnemtSV2tCXzJDOFNfeDNQY2lvb2c&output=html',
+        callback: makeTable, 
+        simpleSheet: true,
+    } )
+
 ## Using GitHub
 
 We use Github 
