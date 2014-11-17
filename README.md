@@ -1,5 +1,14 @@
 # Mother Jones's Storytelling Tools
 
+## Index
+
+* [Setting up your machine](#setting-up-your-machine)
+* [Using programming tools](#some-good-background)
+* [How to make a new project](#using-the-tools)
+* [Coordinating with the newsroom](#working-with-the-rest-of-the-newsroom)
+* [After publishing](#after-publishing)
+* [List of tools](#list-of-tools)
+
 ## Setting Up Your Machine
 
 To use these tools, there are a few things you'll need to download or set up on your machine.
