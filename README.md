@@ -3,7 +3,7 @@
 ## Index
 
 * [Setting up your machine](#setting-up-your-machine)
-* [Making new projects](#making-new-projects)
+* [Starting a new project](#starting-a-new-project)
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
 * [After publishing](#after-publishing)
 * [List of tools](#list-of-tools)
@@ -35,7 +35,7 @@ There are a few programming tools you'll need to use to work with the MoJo story
 * [Text editor](#)
 * [S3 organizer](#)
 
-## Making new projects
+## Starting a new project
 
 #### Upload your data
 
