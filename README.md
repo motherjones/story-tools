@@ -18,6 +18,15 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
 
+## Some good background
+
+There are a few programming tools you'll need to use to work with the MoJo storytelling suite. Here are good introductory walkthroughs for the main ones:
+
+* [Github](https://try.github.io/levels/1/challenges/1)
+* [Command line](#)
+* [Text editor](#)
+* [S3 organizer](#)
+
 ## Using the tools
 
 #### Upload your data
@@ -42,15 +51,23 @@ Open up the copy's files in a text editor (a program for editing HTML, CSS, and 
         simpleSheet: true,
     } )
 
-## Using GitHub
+Change any other variables or copy that you need. Hopefully, the tool's README page will help.
 
-## Life Cycle of a MoJo interactive
+Test all URLs. Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android.
+
+#### Upload to s3
+
+Coming soon.
+
+#### Embed in the shell
+
+Coming soon.
+
+## Working with the rest of the newsroom
 
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
 * Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Share the doc URL in the Slack chat.
-
-* Create a new directory on s3 for the project
 
 * If full-width, confirm sign-off from Business folks
 * Coordinate with fact-check and copyedit
@@ -59,15 +76,13 @@ Open up the copy's files in a text editor (a program for editing HTML, CSS, and 
 * Headline chat for both regular and social heds/decks, for each package item
 * Cross-link between interactive and mainbar as needed
 
-* Test all URLs
-* Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android
-* Does any data need to be proxied?
-
 * Keep Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
 * Talk to story editor about tweet memo
 
-After publishing:
+## After publishing:
+
+* Replace the working title of your spreadsheet with the headline on your published article
 * Convert private repo to public
 * If you made useful design improvements to the tool, go back to the tool's original repo and make these changes there
 
