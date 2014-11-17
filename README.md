@@ -3,9 +3,8 @@
 ## Index
 
 * [Setting up your machine](#setting-up-your-machine)
-* [Using programming tools](#some-good-background)
-* [How to make a new project](#using-the-tools)
-* [Coordinating with the newsroom](#working-with-the-rest-of-the-newsroom)
+* [Making new projects](#making-new-projects)
+* [Coordinating with the newsroom](#coordinating-with-the-newsroom)
 * [After publishing](#after-publishing)
 * [List of tools](#list-of-tools)
 
@@ -27,7 +26,7 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
 
-## Some good background
+#### Some good background
 
 There are a few programming tools you'll need to use to work with the MoJo storytelling suite. Here are good introductory walkthroughs for the main ones:
 
@@ -36,7 +35,7 @@ There are a few programming tools you'll need to use to work with the MoJo story
 * [Text editor](#)
 * [S3 organizer](#)
 
-## Using the tools
+## Making new projects
 
 #### Upload your data
 
@@ -72,7 +71,7 @@ Coming soon.
 
 Coming soon.
 
-## Working with the rest of the newsroom
+## Coordinating with the newsroom
 
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
