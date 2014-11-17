@@ -2,12 +2,12 @@
 
 ## Setting Up Your Machine
 
-To use these tools, there are a few things you'll need to set up on your machine. This excellent walkthrough by [Tyler Fisher](#) covers most of them, follow it as closely as you can.
+To use these tools, there are a few things you'll need to download or set up on your machine.
 
-There are a few more things you'll need access to:
-
+* A good text editor. We prefer [SublimeText](http://www.sublimetext.com/). After downloading, check out this [walkthrough](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts) for some extremely useful keyboard shortcuts and other tips.
+* Access to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
 * Admin access on your machine. Talk to Ross.
-* [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service. Talk to Robert.
+* [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
 
 ## Life Cycle of a MoJo interactive
