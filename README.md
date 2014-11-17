@@ -16,11 +16,11 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * A good text editor. We prefer [SublimeText](http://www.sublimetext.com/).
 
-* You'll be using the command line to access our GitHub account. There's a built-in command line program on all Macs called Terminal. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home). Download it.
+* You'll be using the command line to access our GitHub account. All Macs have a built-in command line program called Terminal. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home).
 
-* We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. First, [download Git](http://git-scm.com/downloads). Then, set up a [new GitHub account](https://github.com/). Finally, follow [this guide](https://help.github.com/articles/set-up-git/) to connect your GitHub account to your computer.
+* We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. [Download Git](http://git-scm.com/downloads). Then, set up a new GitHub account for yourself and follow [this guide](https://help.github.com/articles/set-up-git/) to connect your GitHub account to your computer.
 
-* Get connected to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
+* Finally, you need to link your account to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
 
 * [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 
@@ -68,13 +68,19 @@ Change any other variables or copy that you need. Hopefully, the tool's README p
 
 Coming soon.
 
+Test all URLs. Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android.
+
 #### 4. Embed in the shell
 
 Coming soon.
 
+#### 5. After publishing:
+
+* Replace the working title of your spreadsheet with the headline on your published article
+* Convert private repo to public
+* If you made useful design improvements to the tool, go back to the tool's original repo and make these changes there
 
 ## Coordinating with the newsroom
-
 
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
@@ -90,12 +96,6 @@ Coming soon.
 * Keep Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
 * Talk to story editor about tweet memo
-
-## After publishing:
-
-* Replace the working title of your spreadsheet with the headline on your published article
-* Convert private repo to public
-* If you made useful design improvements to the tool, go back to the tool's original repo and make these changes there
 
 ## List of tools
 
