@@ -17,8 +17,10 @@ To use these tools, there are a few things you'll need to download or set up on 
 * [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
- 
-### Upload your data
+
+## Using the tools
+
+#### Upload your data
 
 On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
 
@@ -28,7 +30,7 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 ``File > Publish to the Web`` Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
 
-### Make a copy of the tool
+#### Make a copy of the tool
 
 [Duplicate](#) the tool, then [push up](#) to a new private repo under the Mother Jones account.
 
