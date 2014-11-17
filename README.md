@@ -16,11 +16,11 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * A good text editor. We prefer [SublimeText](http://www.sublimetext.com/).
 
-* You'll be using the command line to access our GitHub account. There's a built-in application on all Macs called Terminal, which is a command line program. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home). Download it.
+* You'll be using the command line to access our GitHub account. There's a built-in command line program on all Macs called Terminal. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home). Download it.
 
-* We use GitHub for "version control," which means keeping all of our files neatly organized and easy to ctr+Z if anything breaks. First, you'll need to [download Git](http://git-scm.com/downloads). Then, set up a new GitHub account for yourself and follow [this guide](https://help.github.com/articles/set-up-git/) to use Terminal or iTerm2 to connect your GitHub account to your computer.
+* We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. First, [download Git](http://git-scm.com/downloads). Then, set up a [new GitHub account](https://github.com/). Finally, follow [this guide](https://help.github.com/articles/set-up-git/) to connect your GitHub account to your computer.
 
-* Finally, you need to be added to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
+* Get connected to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
 
 * [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 
@@ -38,7 +38,7 @@ The tools, languages, and concepts you'll encounter when working with these tool
 
 ## Starting a new project
 
-#### Upload your data
+#### 1. Upload your data
 
 On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy``. Give your project a working title.
 
@@ -48,7 +48,7 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 ``File > Publish to the Web`` Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
 
-#### Make a copy of the tool
+#### 2. Make a copy of the tool
 
 Create a new private repo under the Mother Jones account ([how-to](https://help.github.com/articles/create-a-repo/))
 
@@ -64,15 +64,14 @@ Open up the copy's files in a text editor (a program for editing HTML, CSS, and 
 
 Change any other variables or copy that you need. Hopefully, the tool's README page will help.
 
-Test all URLs. Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android.
-
-#### Upload to s3
+#### 3. Upload to s3
 
 Coming soon.
 
-#### Embed in the shell
+#### 4. Embed in the shell
 
 Coming soon.
+
 
 ## Coordinating with the newsroom
 
