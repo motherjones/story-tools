@@ -1,6 +1,6 @@
 # Mother Jones's Storytelling Tools
 
-## Your Data + The Tool You Want
+### Add your data to the tool you want
 
 On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
 
