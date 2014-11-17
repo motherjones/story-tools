@@ -1,19 +1,5 @@
 # Mother Jones's Storytelling Tools
 
-### Add your data to the tool you want
-
-On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
-
-Name your project, then go to ``File > Move to Folder > Mother Jones Drive > folder for your beat``
-
-Replace the data in the spreadsheet with the data for your project. Check the README for any rules for changing column names, order, and so on
-
-``File > Publish to the Web`` Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
-
-Grab a copy of the tool you want from Mother Jones's GitHub page.
-Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files).
-Open up the spreadsheet template 
-
 ## Setting Up Your Machine
 
 To use these tools, there are a few things you'll need to download or set up on your machine.
@@ -25,6 +11,22 @@ To use these tools, there are a few things you'll need to download or set up on 
 * Finally, you need to be added to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
 * [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
+* 
+### Upload your data
+
+On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy`` 
+
+Name your project, then go to ``File > Move to Folder > Mother Jones Drive > folder for your beat``
+
+Replace the data in the spreadsheet with the data for your project. Check the README for any rules for changing column names, order, and so on
+
+``File > Publish to the Web`` Publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
+
+### Make a copy of the tool
+
+[Duplicate](#) the tool, then [push up](#) to a new private repo under the Mother Jones account.
+
+Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files). Replace the spreadsheet key with the URL to your new spreadsheet.
 
 ## Using GitHub
 
@@ -35,7 +37,7 @@ We use Github
 * Start a Slack chat with the necessary reporters, editors, and producers
 * Decide who's in charge of keeping this item updated on the slider doc
 * Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Make sure Mother Jones in the owner of the spreadsheet under Sharing > Owner. Share the doc URL in the Slack chat
-* If you're using one of the existing tools, [duplicate](#) the tool's repo locally, then [push up](#) to a new private repo under the Mother Jones account
+
 * Create a new directory on s3 for the project
 
 * If full-width, confirm sign-off from Business folks
