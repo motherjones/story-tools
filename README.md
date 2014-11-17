@@ -4,38 +4,38 @@
 
 To use these tools, there are a few things you'll need to set up on your machine. This excellent walkthrough by [Tyler Fisher](#) covers most of them, follow it as closely as you can.
 
-All of our files ultimately get stored on Amazon S3, an online file storage service. 
+There are a few more things you'll need access to:
+
+* Admin access on your machine. Talk to Ross.
+* [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service. Talk to Robert.
+* The shared Mother Jones Google Drive folder. Talk to Tasneem.
 
 ## Life Cycle of a MoJo interactive
 
 * Start a Slack chat with the necessary reporters, editors, and producers
+* Decide who's in charge of keeping this item updated on the slider doc
 * Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Make sure Mother Jones in the owner of the spreadsheet under Sharing > Owner. Share the doc URL in the Slack chat
 * If you're using one of the existing tools, [duplicate](#) the tool's repo locally, then [push up](#) to a new private repo under the Mother Jones account
 * Create a new directory on s3 for the project
 
-* Coordinate with fact-check and copyedit.
-* Cross-link between interactive and mainbar as needed
+* If full-width, confirm sign-off from Business folks
+* Coordinate with fact-check and copyedit
 * Talk to story editor about intro copy
 * Talk to story editor about byline and any additional credits
 * Headline chat for both regular and social heds/decks, for each package item
+* Cross-link between interactive and mainbar as needed
 
 * Test all URLs
-* Mobile and browser testing on latest Chrome, Safari, Firefox, iPhone, and one popular Android
+* Mobile and browser test on latest Chrome, Safari, Firefox, iPhone, and one popular Android
 * Does any data need to be proxied?
-
-
 
 * Keep Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
 * Talk to story editor about tweet memo
 
+After publishing:
 * Convert private repo to public
-* If full-width, confirm sign-off from Business folks
- 
-
- 
-* Who's in charge of keeping this item updated on the slider doc?
-
+* If you made useful design improvements to the tool, go back to the tool's original repo and make these changes there
 
 ## List of tools
 
