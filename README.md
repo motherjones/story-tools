@@ -31,7 +31,7 @@ To use these tools, there are a few things you'll need to download or set up on 
 The tools, languages, and concepts you'll encounter when working with these tools might be totally new to you. Here are some good backgrounds:
 
 * [HTML and CSS](http://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
-* Github [1](https://try.github.io/levels/1/challenges/1) and [2](http://rogerdudler.github.io/git-guide/)
+* Github: [1](https://try.github.io/levels/1/challenges/1) and [2](http://rogerdudler.github.io/git-guide/)
 * [Command line](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [Text editors](http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 * [Amazon S3](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/)
@@ -70,15 +70,19 @@ Open S3 Organizer in Firefox. The left-hand pane shows files on your machine (ak
 
 After your files have been uploaded, right-click on the main project folder. ``Edit ACL`` and change the permissions as needed. Click "Apply to subfolders" to change all your files at once.
 
+Finally, right-click on your ``index.html`` file to copy the distribution URL (you want the one on the bottom). You'll need this in the next step.
+
 #### 4. Embed in the shell
 
-We use Pym.js to embed projects into stories via our CMS.
+We use [Pym.js](http://blog.apps.npr.org/pym.js/) to embed projects into stories via our CMS. Here's what you need to put in the Source view:
 
       <div id="graphic"></div>
       <script type="text/javascript" src="http://assets.motherjones.com/interactives/plugins/pym.js/src/pym.js"></script>
       <script>
             var pymParent = new pym.Parent('graphic', 'replaceme.html', {});
       </script>
+
+Your distribution URL goes in the place of ``replaceme.html``. Check that things are working in the latest versions of Firefox, Chrome, and Safari, and test on an iPhone 4 or later as well.
 
 #### 5. After publishing:
 
