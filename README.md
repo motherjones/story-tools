@@ -1,5 +1,15 @@
 # Mother Jones's Storytelling Tools
 
+Each tool has a README page, which is like a user's manual. The README will have a link to a spreadsheet template that shows you how your project's data needs to look to work with the tool. Open that link, then go to File > Make a Copy. Name your project, then go to File > Move to Folder > Mother Jones Drive, and then whatever beat folder your project should go in.
+
+Replace the data in the spreadsheet with the data for your project. Different tools have different rules around changing column names, order, and so on. Check the README for these rules. 
+
+When you've replaced the demo data with your project data, go to File > Publish to the Web and publish just the sheet with your data. Make sure that automatic republishing is turned on. Notice the URL that's created after you hit Publish; you'll need that later.
+
+Grab a copy of the tool you want from Mother Jones's GitHub page.
+Open up the copy's files in a text editor (a program for editing HTML, CSS, and javascript files).
+Open up the spreadsheet template 
+
 ## Setting Up Your Machine
 
 To use these tools, there are a few things you'll need to download or set up on your machine.
