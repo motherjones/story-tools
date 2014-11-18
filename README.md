@@ -1,5 +1,5 @@
 # Mother Jones's Storytelling Tools
-A how-to guide for folks in the Mother Jones newsroom. **Note:** This walkthrough isn't going to be very useful for non-MoJo folks. All of our spreadsheet templates are publicly viewable and copy-able, however.
+**Important caveat:** This walkthrough isn't going to be very useful for non-MoJo folks. All of our spreadsheet templates are publicly viewable and copy-able, however.
 
 ## Index
 
