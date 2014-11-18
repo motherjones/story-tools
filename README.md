@@ -7,7 +7,7 @@
 * [How we work](#how-we-work)
 * [Setting up your machine](#setting-up-your-machine)
 * [Starting a new project](#starting-a-new-project)
-* [Coordinating with the newsroom](#coordinating-with-the-newsroom)
+* [Coordinating with the rest of the newsroom](#coordinating-with-the-newsroom)
 
 ## List of tools
 
