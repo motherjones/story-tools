@@ -45,11 +45,11 @@ Here's an overview of how we use these tools at Mother Jones. Step-by-step instr
 
 Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet templates that you can copy and modify for your story.
 
-Next, you'll use the command line to make a copy of the tool you want from our Github library. This copy will live on your machine, or "locally." Then, you'll use a text editor to make it match the data in your spreadsheet.
+Next, you'll use the command line to make a copy of the tool you want from our Github library. This copy will live on your machine, or "locally." Then, you'll use a text editor to match it up with your spreadsheet.
 
-Once your "local" version of the tool is working properly, you'll upload your version to the cloud using Amazon Web Services S3, a cloud-based file-storage service, so that you can make it publicly viewable.
+Once your "local" version of the tool is working properly, you'll upload it to the cloud using Amazon Web Services S3, a cloud-based file-storage service, to make it publicly viewable.
 
-Finally, you'll link to this public version of your project from our CMS.
+Finally, you'll embed this public version of your project in an article via our CMS.
 
 ## Setting up your machine
 
@@ -133,7 +133,7 @@ Your distribution URL goes in the place of ``replace.html``. Check that things a
 
 * Replace the working title of your spreadsheet with the headline on your published article
 * Convert private repo to public
-* If you made useful design improvements to the tool, go back to the tool's original repo and make these changes there
+* If you made happened to make useful design improvements to the tool, talk to Tasneem about potentially making these changes to the master version as well.
 
 ## Coordinating with the newsroom
 
