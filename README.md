@@ -7,7 +7,7 @@
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
 * [List of tools](#list-of-tools)
 
-## Setting Up Your Machine
+## Setting up your machine
 
 To use these tools, there are a few things you'll need to download or set up on your machine.
 
