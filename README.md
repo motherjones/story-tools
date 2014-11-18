@@ -47,7 +47,7 @@ Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet
 
 Next, you'll use the command line to make a copy of the tool you want from our Github library. This copy will live on your machine, or "locally." Then, you'll use a text editor to match it up with your spreadsheet.
 
-Once your "local" version of the tool is working properly, you'll upload it to the cloud using Amazon Web Services S3, a cloud-based file-storage service, to make it publicly viewable.
+Once your "local" version of the tool is working properly, you'll upload it to the cloud using Amazon Web Services S3, a cloud-based file-storage service, where it becomes publicly viewable.
 
 Finally, you'll embed this public version of your project in an article via our CMS.
 
