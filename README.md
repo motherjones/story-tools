@@ -1,4 +1,5 @@
 # Mother Jones's Storytelling Tools
+A how-to guide for folks in the Mother Jones newsroom. 
 
 ## Index
 
