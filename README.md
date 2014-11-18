@@ -83,7 +83,7 @@ The tools, languages, and concepts you'll encounter when working with these tool
 
 #### 1. Upload your data
 
-On the tool's README section, open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy``. Give your project a working title.
+Go to the Github page of the tool you want to use. Read through the README, then open the Spreadsheet Template link. When it opens in Google Docs, go to ``File > Make a Copy``. Give your project a working title.
 
 ``File > Move to Folder > Mother Jones Drive > folder for your beat``. Make Mother Jones the owner of the spreadsheet under ``Sharing > Owner``.
 
