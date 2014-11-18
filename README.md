@@ -1,5 +1,5 @@
 # Mother Jones's Storytelling Tools
-A how-to guide for folks in the Mother Jones newsroom. 
+A how-to guide for folks in the Mother Jones newsroom. **Note:** This walkthrough pretty much only applies to folks at Mother Jones. All of our spreadsheet templates are publicly viewable and copy-able, however.
 
 ## Index
 
@@ -26,8 +26,6 @@ Once your "local" version of the tool is working properly, you'll upload your ve
 Finally, you'll link to this public version of your project from our CMS.
 
 ## Setting up your machine
-
-**Note: the rest of this walkthrough pretty much only applies to folks at Mother Jones. All of our spreadsheet templates are publicly viewable and copy-able, however.**
 
 To use these tools, there are a few things you'll need to download or set up on your machine.
 
