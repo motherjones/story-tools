@@ -8,7 +8,7 @@ A how-to guide for folks in the Mother Jones newsroom.
 * [Setting up your machine](#setting-up-your-machine)
 * [Starting a new project](#starting-a-new-project)
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
-* 
+
 ## List of tools
 
 [Full list](https://github.com/motherjones/story-tools/blob/master/list.md)
