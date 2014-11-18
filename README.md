@@ -1,16 +1,29 @@
 # Mother Jones's Storytelling Tools
 A how-to guide for folks in the Mother Jones newsroom. 
 
-## The stack
-
-Coming soon.
-
 ## Index
 
+* [List of tools](#list-of-tools)
+* [How we work](how-we-work)
 * [Setting up your machine](#setting-up-your-machine)
 * [Starting a new project](#starting-a-new-project)
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
-* [List of tools](#list-of-tools)
+* 
+## List of tools
+
+[Full list](https://github.com/motherjones/story-tools/blob/master/list.md)
+
+##How we work
+
+Here's an overview of how we use these tools at Mother Jones. Step-by-step instructions are [below](#starting-a-new-project).
+
+Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet templates that you can copy and modify for your story.
+
+Next, you'll use the command line to make a copy of the tool you want from our Github library. This copy will live on your machine, or "locally." Then, you'll use a text editor to make it match the data in your spreadsheet.
+
+Once your "local" version of the tool is working properly, you'll upload your version to the cloud using Amazon Web Services S3, a cloud-based file-storage service, so that you can make it publicly viewable.
+
+Finally, you'll link to this public version of your project from our CMS.
 
 ## Setting up your machine
 
@@ -66,7 +79,9 @@ In SublimeText, open the main folder of your repo. Replace the spreadsheet key i
         simpleSheet: true,
     } )
 
-Change any other variables or copy that you need. Hopefully, the tool's README page will help. Add, commit, and push your changes as you go.
+Change any other variables or copy that you need. Hopefully, the tool's README page will help. Open the ``index.html`` file in a browser like Chrome or Firefox to check your progress.
+
+Add, commit, and push your changes as you go.
 
 #### 3. Upload to s3
 
@@ -97,7 +112,3 @@ Your distribution URL goes in the place of ``replaceme.html``. Check that things
 ## Coordinating with the newsroom
 
 [newsroom.md](https://github.com/motherjones/story-tools/blob/master/newsroom.md)
-
-## List of tools
-
-[list.md](https://github.com/motherjones/story-tools/blob/master/list.md)
