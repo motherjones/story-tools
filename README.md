@@ -1,6 +1,10 @@
 # Mother Jones's Storytelling Tools
 A how-to guide for folks in the Mother Jones newsroom. 
 
+## The stack
+
+Coming soon.
+
 ## Index
 
 * [Setting up your machine](#setting-up-your-machine)
