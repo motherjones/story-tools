@@ -4,7 +4,7 @@
 ## Index
 
 * [List of tools](#list-of-tools)
-* [How we work](how-we-work)
+* [How we work](#how-we-work)
 * [Setting up your machine](#setting-up-your-machine)
 * [Starting a new project](#starting-a-new-project)
 * [Coordinating with the newsroom](#coordinating-with-the-newsroom)
@@ -65,7 +65,7 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * Finally, you need to link your account to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
 
-* [S3 Organizer](#), the Firefox plugin for uploading to [Amazon S3](#), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
+* [S3 Organizer](http://www.s3fox.net/), the Firefox plugin for uploading to [Amazon S3](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 
 * The shared Mother Jones Google Drive folder. Talk to Tasneem.
 
@@ -124,10 +124,10 @@ We use [Pym.js](http://blog.apps.npr.org/pym.js/) to embed projects into stories
       <div id="graphic"></div>
       <script type="text/javascript" src="http://assets.motherjones.com/interactives/plugins/pym.js/src/pym.js"></script>
       <script>
-            var pymParent = new pym.Parent('graphic', 'replaceme.html', {});
+            var pymParent = new pym.Parent('graphic', 'replace.html', {});
       </script>
 
-Your distribution URL goes in the place of ``replaceme.html``. Check that things are working in the latest versions of Firefox, Chrome, and Safari, and test on an iPhone 4 or later as well.
+Your distribution URL goes in the place of ``replace.html``. Check that things are working in the latest versions of Firefox, Chrome, and Safari, and test on an iPhone 4 or later as well.
 
 #### 5. After publishing:
 
