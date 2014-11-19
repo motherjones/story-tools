@@ -6,11 +6,12 @@
 
 * If full-width, confirm sign-off from Business folks
 * Coordinate with fact-check and copyedit
-* Talk to story editor about intro copy
-* Talk to story editor about byline and any additional credits
+* Talk to story editor about intro copy—who's writing it?
+* Talk to story editor about master, relateds, and tags—who's responsible?
+* Talk to story editor about byline and any additional credits—who needs to be included?
 * Headline chat for both regular and social heds/decks, for each package item
 * Cross-link between interactive and mainbar as needed
 
-* Keep Public Affairs in the loop for any updates on story publication
+* Keep Sam and Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
 * Talk to story editor about tweet memo
