@@ -14,4 +14,4 @@
 
 * Keep Sam and Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
-* Talk to story editor about tweet memo
+* Talk to story editor about tweet memo—who's writing it?
