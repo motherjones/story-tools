@@ -43,7 +43,7 @@
 
 Here's an overview of how we use these tools at Mother Jones. Step-by-step instructions are [below](#starting-a-new-project).
 
-Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet templates that you can copy and modify for your story.
+Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet templates that you'll copy and modify for your story.
 
 Next, you'll use the command line to make a copy of the tool you want from our Github library. This copy will live on your machine, or "locally." Then, you'll use a text editor to match it up with your spreadsheet.
 
