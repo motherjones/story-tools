@@ -138,4 +138,5 @@ Your distribution URL goes in the place of ``replace.html``. Check that things a
 ## Coordinating with the newsroom
 
 Of course, stories involve a lot more than spreadsheets and html files. Here is a list of non-technical but very important editorial concerns when it comes to publishing your story: 
+
 [Editorial needs](https://github.com/motherjones/story-tools/blob/master/newsroom.md)
