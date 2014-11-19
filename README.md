@@ -42,7 +42,7 @@
 
 Here's an overview of how we use these tools at Mother Jones. Step-by-step instructions are [below](#starting-a-new-project).
 
-**Important caveat:** This walkthrough isn't going to be very useful for non-MoJo folks. All of our spreadsheet templates are publicly viewable and copy-able, however.
+*Important caveat: This walkthrough isn't going to be very useful to non-MoJo folks. All of our spreadsheet templates are publicly viewable and copy-able, however.*
 
 Most of our tools are powered by Google Spreadsheets. We have sample spreadsheet templates that you can copy and modify for your story.
 
