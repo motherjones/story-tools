@@ -9,7 +9,7 @@
 * Talk to story editor about intro copy—who's writing it?
 * Talk to story editor about master, relateds, and tags—who's responsible?
 * Talk to story editor about byline and any additional credits—who needs to be included?
-* Headline chat for both regular and social heds/decks, for each package item
+* Talk to story editor about headline chat for both regular and social heds/decks, for each package item—who's running it?
 * Cross-link between interactive and mainbar as needed
 
 * Keep Sam and Public Affairs in the loop for any updates on story publication
