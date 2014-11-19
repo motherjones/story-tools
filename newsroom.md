@@ -5,6 +5,7 @@
 * Create a Google doc in the shared MoJo Drive folder, under the relevant beat. Share the doc URL in the Slack chat.
 
 * If full-width, confirm sign-off from Business folks
+* 
 * Coordinate with fact-check and copyedit
 * Talk to story editor about intro copy—who's writing it?
 * Talk to story editor about master, relateds, and tags—who's responsible?
@@ -14,4 +15,5 @@
 
 * Keep Sam and Public Affairs in the loop for any updates on story publication
 * Give Public Affairs all URLs for promo
+
 * Talk to story editor about tweet memo—who's writing it?
