@@ -10,7 +10,7 @@
 
 ## List of tools
 
-* [US map with tooltips](https://github.com/motherjones/spreadsheet-to-svg) For color-coded maps with state-by-state US data. Polygons only.
+* [US color-coded map](https://github.com/motherjones/spreadsheet-to-svg) For color-coded maps with state-by-state US data. Polygons only.
 
 * [Prettylist](https://github.com/motherjones/prettylist) Generate a nicely formatted list from a spreadsheet.
 
