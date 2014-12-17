@@ -135,6 +135,8 @@ Here are the commands you'll use over and over:
 
 * ``git push`` finally, upload your changes to GitHub
 
+This screenshot shows the process of making a couple sets of changes and uploading them to GitHub:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/more-git-commands.jpg" alt="screenshot"/>
 </p>
