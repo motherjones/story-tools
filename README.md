@@ -67,11 +67,11 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. [Download Git](http://git-scm.com/downloads). Then, set up a new GitHub account for yourself and follow [this guide](https://help.github.com/articles/set-up-git/) to connect your GitHub account to your computer.
 
-* Finally, you need to link your account to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to Tasneem.
+* Finally, you need to link your account to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to AJ.
 
 * [S3 Organizer](http://www.s3fox.net/), the Firefox plugin for uploading to [Amazon S3](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/), a cloud-based file storing service, as well as access to our files on s3. Talk to Robert.
 
-* The shared Mother Jones Google Drive folder. Talk to Tasneem.
+* The shared Mother Jones Google Drive folder. Talk to AJ.
 
 #### Some good background
 
