@@ -100,7 +100,7 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 Create a new private repo under the Mother Jones account ([how-to](https://help.github.com/articles/create-a-repo/)). Name it with the slug of your story + the name of the tool, i.e.: [rape-statutes-map-table](https://github.com/motherjones/rape-statutes-map-table). 
 
 <p align="center">
-  <img width="50%" src="https://raw.githubusercontent.com/motherjones/story-tools/master/new-repo.png" alt="screenshot"/>
+  <img width="75%" src="https://raw.githubusercontent.com/motherjones/story-tools/master/new-repo.png" alt="screenshot"/>
 </p>
 
 Duplicate the tool and push to the new repo ([how to](https://help.github.com/articles/duplicating-a-repository/)). Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal.
