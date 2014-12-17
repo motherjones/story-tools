@@ -105,24 +105,18 @@ Create a new private repo under the Mother Jones account ([how-to](https://help.
 
 Name it with the slug of your story + the name of the tool, i.e.: [rape-statutes-map-table](https://github.com/motherjones/rape-statutes-map-table). 
 
-Now you're going to make a copy of the tool you want to use and stick it in the new repo. Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal. You can also find the same commands here: ([how to](https://help.github.com/articles/duplicating-a-repository/)). 
+Now you're going to make a copy of the tool you want to use and stick it in the new repo. Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal. 
+
+You can also find the same commands here: ([how to](https://help.github.com/articles/duplicating-a-repository/)). 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/terminal.jpg" alt="screenshot"/>
 </p>
 
 
-In SublimeText, open the main folder of your repo. Replace the spreadsheet key in ``script.js`` with the URL to your new spreadsheet. It usually looks something like this:
+In SublimeText, open the main folder of your repo. At this point, go check out the tool's own README page for further instructions. 
 
-      Tabletop.init( { 
-        key: 'https://docs.google.com/spreadsheet/pub?key=0AuHOPshyxQGGdDFnemtSV2tCXzJDOFNfeDNQY2lvb2c&output=html',
-        callback: makeTable, 
-        simpleSheet: true,
-    } )
-
-Change any other variables or copy that you need. Hopefully, the tool's README page will help. Open the ``index.html`` file in a browser like Chrome or Firefox to check your progress.
-
-Add, commit, and push your changes as you go.
+As you make changes these changes, you need to update your project file's on GitHub to match what you're doing on your own machine (essentially saving as you go). 
 
 #### 3. Upload to s3
 
