@@ -121,8 +121,15 @@ As you make changes these changes, you need to update your project file's on Git
 * Github: [1](https://try.github.io/levels/1/challenges/1) and [2](http://rogerdudler.github.io/git-guide/)
 * [Command line](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
+``cd`` open and go into a folder on your machine
+``git status`` check to see if you have unsaved changes
+``git add --all`` add all your changes to be saved
+``git commit -m "Message here"`` decribe your changes
+``git pull`` check that no one else has uploaded any new changes
+``git push`` finally, upload your changes to GitHub
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/git-commands.png" alt="screenshot"/>
+  <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/more-git-commands.jpg" alt="screenshot"/>
 </p>
 
 #### 3. Upload to s3
