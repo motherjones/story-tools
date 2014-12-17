@@ -105,7 +105,7 @@ Create a new private repo under the Mother Jones account ([how-to](https://help.
 
 Name it with the slug of your story + the name of the tool, i.e.: [rape-statutes-map-table](https://github.com/motherjones/rape-statutes-map-table). 
 
-Now you're going to make a copy of the tool you want to use and stick it in the new repo. ([how to](https://help.github.com/articles/duplicating-a-repository/)). Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal.
+Now you're going to make a copy of the tool you want to use and stick it in the new repo. Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal. You can also find the same commands here: ([how to](https://help.github.com/articles/duplicating-a-repository/)). 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/terminal.jpg" alt="screenshot"/>
