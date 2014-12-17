@@ -116,7 +116,14 @@ You can also find the same commands here: ([how to](https://help.github.com/arti
 
 In SublimeText, open the main folder of your repo. At this point, go check out the tool's own README page for further instructions. 
 
-As you make changes these changes, you need to update your project file's on GitHub to match what you're doing on your own machine (essentially saving as you go). 
+As you make changes these changes, you need to update your project file's on GitHub to match what you're doing on your own machine (essentially saving as you go). Check out these tutorials for a basic intro to GitHub commands:
+
+* Github: [1](https://try.github.io/levels/1/challenges/1) and [2](http://rogerdudler.github.io/git-guide/)
+* [Command line](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/git-commands.png" alt="screenshot"/>
+</p>
 
 #### 3. Upload to s3
 
