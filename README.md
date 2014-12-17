@@ -52,7 +52,7 @@ Once your "local" version of the tool is working properly, you'll upload it to t
 Finally, you'll embed this public version of your project in an article via our CMS.
 
 <p align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/motherjones/story-tools/master/flowchart.png" alt="screenshot"/>
+  <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/flowchart.png" alt="screenshot"/>
 </p>
 
 ## Setting up your machine
