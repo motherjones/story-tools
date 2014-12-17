@@ -99,14 +99,11 @@ Replace the data in the spreadsheet with the data for your project. Check the RE
 
 Create a new private repo under the Mother Jones account ([how-to](https://help.github.com/articles/create-a-repo/)). Name it with the slug of your story + the name of the tool, i.e.: [rape-statutes-map-table](https://github.com/motherjones/rape-statutes-map-table). 
 
-Duplicate the tool and push to the new repo ([how to](https://help.github.com/articles/duplicating-a-repository/))
+Duplicate the tool and push to the new repo ([how to](https://help.github.com/articles/duplicating-a-repository/)). Here's a screenshot of all the commands you'll need (replacing your repo names as needed). The portions that are blacked out are messages back from the terminal.
 
-$ cd Desktop
-$ git clone --bare https://github.com/motherjones/image-sidebar.git
-*ignore the next few lines that spit out...*
-$ cd image-sidebar.git
-$ git push --mirror https://github.com/motherjones/slug-image-sidebar.git
-$ cd ..
+<p align="center">
+  <img src="https://raw.githubusercontent.com/motherjones/story-tools/master/terminal.jpg" alt="screenshot"/>
+</p>
 
 
 In SublimeText, open the main folder of your repo. Replace the spreadsheet key in ``script.js`` with the URL to your new spreadsheet. It usually looks something like this:
