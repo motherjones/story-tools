@@ -10,19 +10,19 @@
 
 ## List of tools
 
+* [Prettylist](https://github.com/motherjones/prettylist) Generate a nicely formatted list from a spreadsheet.
+
 * [US color-coded map](https://github.com/motherjones/spreadsheet-to-svg) For color-coded maps with state-by-state US data. Polygons only.
 
-* [Prettylist](https://github.com/motherjones/prettylist) Generate a nicely formatted list from a spreadsheet.
+* [Newsquiz](https://github.com/motherjones/newsquiz) A simple quiz app with lots of options for using images. 
+
+* [Map Table](https://github.com/motherjones/map-table) Combo map and table graphic for data about the 50 states.
+
+* [Choose Your Own Adventure](https://github.com/motherjones/cyoa) Good for walkthrough explainers.
 
 * [Simple slider](https://github.com/motherjones/simple-slider/) A horizontal inline slider that works with images, videos, and any html elements.
 
 * [Image sidebar](https://github.com/motherjones/image-sidebar) Useful for inline navs, images with captions, and so on. Can be horizontal or vertical.
-
-* [Newsquiz](https://github.com/motherjones/newsquiz) A simple quiz app with lots of options for using images. 
-
-* [Choose Your Own Adventure](https://github.com/motherjones/cyoa) Good for walkthrough explainers.
-
-* [Map Table](https://github.com/motherjones/map-table) Combo map and table graphic for data about the 50 states.
 
 * [Full-width template](https://github.com/motherjones/full-width-template) For "big" features and interactives.
 
@@ -63,9 +63,9 @@ To use these tools, there are a few things you'll need to download or set up on 
 
 * A good text editor. We prefer [SublimeText](http://www.sublimetext.com/).
 
-* You'll be using the command line to access our GitHub account. All Macs have a built-in command line program called Terminal. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home).
+* You'll be using the command line to access our GitHub account. All Macs have a built-in command line program called Terminal. You can use that, but we prefer [iTerm2](http://www.iterm2.com/#/section/home). Download it.
 
-* We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. [Download Git](http://git-scm.com/downloads). Then, set up a new GitHub account for yourself and follow [this guide](https://help.github.com/articles/set-up-git/) to connect your GitHub account to your computer.
+* We use GitHub for "version control," or keeping files neatly organized and easy to ctrl+Z if anything breaks. Talk to Ross about [downloading Git](http://git-scm.com/downloads) and setting up a new GitHub account for yourself, and connecting GitHub to your computer following [this guide](https://help.github.com/articles/set-up-git/).
 
 * Finally, you need to link your account to the Mother Jones [GitHub account](https://github.com/motherjones). Talk to AJ.
 
