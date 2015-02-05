@@ -36,7 +36,7 @@
 
 * [US map with d3 markers](https://github.com/motherjones/us-map-d3-markers) For putting dynamically sized markers on a US map.
 
-* Datawrapper: Our version of the excellent [charting tool](datawrapper.de).
+* Datawrapper: Our version of the excellent [charting tool](http://datawrapper.de).
 
 ##How we work
 *Important caveat: This walkthrough isn't going to be very useful to non-MoJo folks. All of our spreadsheet templates are publicly viewable and copy-able, however.*
